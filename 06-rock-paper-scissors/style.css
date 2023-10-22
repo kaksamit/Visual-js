@@ -1,0 +1,14 @@
+.rpsButton {
+  background: transparent;
+  border-color: grey;
+  border-radius: 100%;  
+  border-style: solid;
+  border-width: 3px;
+  height: 120px;  
+  width: 120px;
+  margin-right: 10px;
+}
+.icon {
+  width: 50%;
+  height: 50%;
+}
